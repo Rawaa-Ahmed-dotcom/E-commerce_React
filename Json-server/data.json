@@ -1,0 +1,167 @@
+{
+  "products" : [
+
+      {
+        "id": 1,
+        "title": "Wireless Bluetooth Headphones",
+        "price": 59.99,
+        "description": "Noise-cancelling over-ear headphones with 30 hours of battery life.",
+        "image": "https://assets-dubaiphone.dubaiphone.net/dp-prod/wp-content/uploads/2025/01/USB-C-Black.png",
+        "category": "Electronics"
+      },
+      {
+        "id": 2,
+        "title": "Running Shoes",
+        "price": 89.99,
+        "description": "Lightweight and breathable shoes designed for comfort and performance.",
+        "image": "https://guruonline.store/wp-content/uploads/2025/02/JI1386_1_FOOTWEAR_Photography_Side-Lateral-Center-View_transparent.png",
+        "category": "Sportswear"
+      },
+      {
+        "id": 3,
+        "title": "Smart Watch",
+        "price": 149.99,
+        "description": "Track your fitness, heart rate, and receive notifications on the go.",
+        "image": "https://m.media-amazon.com/images/I/61AKZh-Hp3L._AC_SX522_.jpg",
+        "category": "Electronics"
+      },
+      {
+        "id": 4,
+        "title": "Backpack",
+        "price": 39.99,
+        "description": "Durable backpack with multiple compartments for school or travel.",
+        "image": "https://joobran.com/cdn/shop/files/front_9582e0c2-4342-4890-84c7-a716e2a47899_1800x1800.png?v=1726869644",
+        "category": "Accessories"
+      },
+      {
+        "id": 5,
+        "title": "Coffee Maker",
+        "price": 79.99,
+        "description": "Programmable coffee machine with a built-in grinder and timer.",
+        "image": "https://m.media-amazon.com/images/I/81zBYZUEF7L._AC_SX679_.jpg",
+        "category": "Home Appliances"
+      },
+    {
+      "id": 6,
+      "title": "Gaming Mouse",
+      "price": 49.99,
+      "description": "High precision wireless gaming mouse with customizable RGB lighting.",
+      "image": "https://m.media-amazon.com/images/I/61AcT0ZuO3L._AC_SX522_.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 7,
+      "title": "Yoga Mat",
+      "price": 25.99,
+      "description": "Eco-friendly non-slip yoga mat with extra cushioning.",
+      "image": "https://wayupsports.com/cdn/shop/products/BB-8300D_3cca534d-9ced-4163-8951-1a5f0790880e.jpg?v=1710338510&width=800",
+      "category": "Sportswear"
+    },
+    {
+      "id": 8,
+      "title": "Water Bottle",
+      "price": 15.99,
+      "description": "Stainless steel insulated water bottle keeps drinks cold for 24h.",
+      "image": "https://m.media-amazon.com/images/I/41NWN+pOjTL._AC_SX679_.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 9,
+      "title": "Laptop",
+      "price": 999.99,
+      "description": "Powerful laptop with 16GB RAM, 512GB SSD, and a 14-inch display.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdeTEuKgLxlXoH-RpGOJJtXWz7mGvfnCZRv3zdKa7T8Zd1lNeSrY8ylKbRddJylKusVmQTqQSEUYK9P_MrZA6vTfip4IUhoVOb7cYUwrBc1T5keH3GocpMEBLjOKUr&usqp=CAc",
+      "category": "Electronics"
+    },
+    {
+      "id": 10,
+      "title": "Desk Lamp",
+      "price": 29.99,
+      "description": "LED desk lamp with adjustable brightness and USB charging port.",
+      "image": "https://www.ikea.com/eg/en/images/products/skurup-work-lamp-black__1019457_pe831378_s5.jpg?f=xl",
+      "category": "Home Appliances"
+    },
+    {
+      "id": 11,
+      "title": "Winter Jacket",
+      "price": 119.99,
+      "description": "Waterproof insulated jacket perfect for cold weather.",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDUmwDM8uwh4PDXUlYzRw-P0XL4q4moDSG2uejINBntVXGYPZ6KThBUTicD4f4MrJva5Qah-1b3WLq4kP-RrgkwieR86YzeMzvxbjsUvq9CCwnMvZWgO4V0cHcZwuZPi8tDuh1lIED_g&usqp=CAc",
+      "category": "Clothing"
+    },
+    {
+      "id": 12,
+      "title": "Sunglasses",
+      "price": 49.99,
+      "description": "Polarized sunglasses with UV protection and stylish frame.",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-DCpPLhPrK9EOEuekRLumwVMP7_yMkFyi6nNaGsggLD5d_t4Lvb_WgNgBGQUTo8UOpIctLtJ5u6Q2gK2A8tqJ32KkoAhxth-QhJitxP3Szmz1NJWA9XDqJ4JHhUo1uu6l_9Fe8WUUWQ&usqp=CAc",
+      "category": "Accessories"
+    },
+    {
+      "id": 13,
+      "title": "Wireless Keyboard",
+      "price": 45.99,
+      "description": "Slim wireless keyboard with rechargeable battery and quiet keys.",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYzfBNh8fiCuSh_3bQC5YzJaiVSPKmnPpilUIm5ScBSzORJANjN6UDx3uCkU4IIf0lBPxSygWPCDO2A5TXN76gUM1iRolwi27o_EkEb8df8qha0HB_pBY0VwRtBUa-t_V54YVl9msuYP8&usqp=CAc",
+      "category": "Electronics"
+    },
+    {
+      "id": 14,
+      "title": "Electric Kettle",
+      "price": 35.99,
+      "description": "Fast boiling stainless steel electric kettle with auto shut-off.",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfSK5sj5e_jc5x-pHEH9eDfEyZFBAHTEyw3iL2FjUELkoh6-tq-lKdgOZ6x3tcuGL-ILQrilQJ_8DUY4AuRQzIqz055p53Bg2XV8YnhfiFJAh6O3GGzKfpZh60zcHHiZk2zvZ0FqliFw&usqp=CAc",
+      "category": "Home Appliances"
+    },
+    {
+      "id": 15,
+      "title": "Camping Tent",
+      "price": 149.99,
+      "description": "4-person waterproof camping tent with easy setup design.",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTi-m0jqA51ig6dD5tiChp-vFZ7XAj5S9AgutCYjQnwTWCqh6bcmKke_LcW4z0a7WlDQW5jJeHaGtumYEbPXrq9V7dLX7Ej7Palj5yAD5x8hulmLJLFNWUWSH8EXXY2&usqp=CAc",
+      "category": "Sportswear"
+    },
+    {
+      "id": 16,
+      "title": "Office Chair",
+      "price": 199.99,
+      "description": "Ergonomic office chair with lumbar support and adjustable height.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTXIprdSkonVG4TEf2WAQKm1ARrPteS-7ncJJ9AMNgG8TH-Pt-2aGLCAKtsWOXfDCahEsTusIq4hlzlt3mrpllxiagr49qYvrNL2x2koGicjJLizmQ9VyU9s5-rn-_0atZnX8Ptm3Zvbgc&usqp=CAc",
+      "category": "Furniture"
+    },
+    {
+      "id": 17,
+      "title": "Tablet",
+      "price": 299.99,
+      "description": "10-inch tablet with 64GB storage and 8MP rear camera.",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTEMR4hreaVwKq2gZVYoQH3CGfg3gRifR0hRLzeYkPzbP5sfN-0gQbwM_DcnEHDFYi47FjNGkOVn6Lv915XhLhorYFBIXRg9Fnq8vemBwLURCJDcPdr2tL2C9wZRLXbzOb2DlL8r4U&usqp=CAc",
+      "category": "Electronics"
+    },
+    {
+      "id": 18,
+      "title": "Perfume",
+      "price": 69.99,
+      "description": "Long-lasting fragrance with floral and woody notes.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeh72YgkJkd7jY_QxcbGKY1_cTJm3u89EXtF3rgh5c-BSLftmgs95aF1O0ZGBKXqgpWBsTwyTGb-W0MWjjstORwCSPuZh7hiaEEF_bCmByf9u-j7MHxZPLCa89gWtY8CMdehkurHs&usqp=CAc",
+      "category": "Beauty"
+    },
+    {
+      "id": 19,
+      "title": "Cookware Set",
+      "price": 159.99,
+      "description": "10-piece nonstick cookware set with glass lids and stay-cool handles.",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiWukvitRrnlpRDbCWufUoo7AmZ1LNZvnjb8Uj6VW8DdBJtJUHKaPN8_y4d9C8rYC9cctYKn-PHJOt_X0-5NZkiKm4AYQPeazWUlsWRAFicd6rEEMviLrJmgx7mmWAaL89YXfWiwVSqt0&usqp=CAc",
+      "category": "Home Appliances"
+    },
+    {
+      "id": 20,
+      "title": "Electric Guitar",
+      "price": 399.99,
+      "description": "Solid-body electric guitar with maple neck and 3 single-coil pickups.",
+      "image": "data:image/webp;base64,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",
+      "category": "Music"
+    }
+
+
+  ]
+}
